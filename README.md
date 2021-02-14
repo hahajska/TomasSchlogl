@@ -11,10 +11,10 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 
 #### Technologies I'm familiar with: 
 <sub>
-HTML <br>
+HTML <br> 
 CSS <br>
 SCSS <br>
-JS <br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='github' height='20'>] JS <br>
 GreenSock Animations <br>
 </sub>
 
