@@ -12,9 +12,9 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 #### Technologies I'm familiar with: 
 <sub>
 HTML <br> 
-CSS <br>
+<img src='https://simpleicons.org/icons/css3.svg' alt='css' height='20'><br><br>
 SCSS <br>
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='¨javascript' height='20'> JS <br>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='¨javascript' height='20'><br><br>
 GreenSock Animations <br>
 </sub>
 
