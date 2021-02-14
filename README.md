@@ -14,11 +14,8 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 <br>
 <br>
 <br>
-
+<sub>
 I’m currently improving my skills with: React.js
+</sub>
 
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thomasinho537)  
 
