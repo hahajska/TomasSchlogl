@@ -10,6 +10,14 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 <br>
 
 #### I'm familiar with: 
+<sub>
+:heavy_check_mark: HTML
+:heavy_check_mark: CSS
+:heavy_check_mark: SASS
+:heavy_check_mark: JS
+:heavy_check_mark: GSAP
+:heavy_check_mark: REACT.JS
+</sub>
 <img src='https://simpleicons.org/icons/html5.svg' alt='html' height='20'> <img src='https://simpleicons.org/icons/css3.svg' alt='css' height='20'> <img src='https://simpleicons.org/icons/sass.svg' alt='sasst' height='20'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='¨javascript' height='20'><img src='https://simpleicons.org/icons/greensock.svg' alt='gsap' height='20'>
 <br>
 <br>
