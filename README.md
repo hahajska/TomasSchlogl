@@ -1,5 +1,5 @@
 
-#### Hello, my name is Tomas :eight_pointed_black_star:
+#### :eight_pointed_black_star: Hello, my name is Tomas :eight_pointed_black_star:
 ##### I am a Web Developer
 
 <sub>
