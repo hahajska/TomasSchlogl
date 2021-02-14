@@ -11,7 +11,7 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 
 #### Technologies I'm familiar with: 
 <sub>
-HTML <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[Progate].svg" /> <br>
+HTML <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[#FF269E].svg" /> <br>
 CSS <br>
 SCSS <br>
 JS <br>
