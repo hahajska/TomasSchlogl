@@ -9,7 +9,7 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 <br>
 <br>
 
-#### Technologies I'm familiar with: 
+#### I'm familiar with: 
 <sub>
 <img src='https://simpleicons.org/icons/html5.svg' alt='html' height='20'><br><br>
 <img src='https://simpleicons.org/icons/css3.svg' alt='css' height='20'><br><br>
