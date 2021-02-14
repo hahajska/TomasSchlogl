@@ -14,7 +14,7 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 HTML <br> 
 CSS <br>
 SCSS <br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='github' height='20'>] JS <br>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='¨javascript' height='20'> JS <br>
 GreenSock Animations <br>
 </sub>
 
