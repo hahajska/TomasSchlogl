@@ -14,8 +14,8 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 <br>
 <br>
 <br>
-<sub>
-I’m currently learning React.js.
-</sub>
+
+#### I’m currently learning React.js.
+
 
 
