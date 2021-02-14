@@ -11,7 +11,7 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 
 #### Technologies I'm familiar with: 
 <sub>
-HTML <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[#FF269E].svg" /> <br>
+HTML <br>
 CSS <br>
 SCSS <br>
 JS <br>
@@ -20,7 +20,7 @@ GreenSock Animations <br>
 
 - 🔭 I’m currently working on this page. 
 
-![img_4286a-350x233](https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg)
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thomasinho537)  
