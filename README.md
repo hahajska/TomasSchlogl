@@ -10,11 +10,13 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 <br>
 
 #### Technologies I'm familiar with: 
+<sub>
 HTML <br>
 CSS <br>
 SCSS <br>
 JS <br>
 GreenSock Animations <br>
+</sub>
 
 - 🔭 I’m currently working on this page. 
 
