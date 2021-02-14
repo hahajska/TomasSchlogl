@@ -13,9 +13,9 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 <img src='https://simpleicons.org/icons/html5.svg' alt='html' height='20'> <img src='https://simpleicons.org/icons/css3.svg' alt='css' height='20'> <img src='https://simpleicons.org/icons/sass.svg' alt='sasst' height='20'>  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='¨javascript' height='20'><img src='https://simpleicons.org/icons/greensock.svg' alt='gsap' height='20'>
 <br>
 <br>
-<br>
 
-##### I’m currently learning React.js.
+
+##### I’m currently learning React.js. :desktop_computer:
 
 
 
