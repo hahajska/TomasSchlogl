@@ -1,5 +1,5 @@
-### Hi there, my name is Tomas! :point_left:
-#### I am a Web Developer
+
+#### Hello, my name is Tomas and I am a Web Developer
 
 <sub>
 I am a high school student and one day, I wanna become a web developer. I started programming on March 3rd 2020.:hourglass:<br>
