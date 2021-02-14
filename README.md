@@ -1,4 +1,4 @@
-### Hi there, my name is Tomas!
+### Hi there, my name is Tomas! :point_left:
 #### I am a Web Developer
 ![I am a Web Develope](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
