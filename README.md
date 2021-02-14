@@ -8,7 +8,13 @@ It was long and hard journey, but I got used to it!I am looking forward to spend
 </sub>
 <br>
 <br>
-Skills: VUE JS / REACT / JS / HTML / CSS
+
+#### Technologies I'm familiar with: 
+HTML <br>
+CSS <br>
+SCSS <br>
+JS <br>
+GreenSock Animations <br>
 
 - 🔭 I’m currently working on this page. 
 
