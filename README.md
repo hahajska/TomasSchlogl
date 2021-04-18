@@ -3,7 +3,7 @@
 ##### I am a Web Developer
 
 <sub>
-I am a high school student. I started programming on March 3rd 2020 & I wanna continue with it in next years.  :hourglass:<br>
+I am a high school student. I started programming on March 3rd 2020.  :hourglass:<br>
 If you want to co-operate with me, hit me up  :rocket:
 </sub>
 <br>
