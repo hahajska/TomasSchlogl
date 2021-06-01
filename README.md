@@ -1,6 +1,6 @@
 
-#### :eight_pointed_black_star: Hello, my name is Tomas :eight_pointed_black_star:
-##### I am a Web Developer
+ 
+#### Hey :eight_pointed_black_star:
 
 <sub>
 I am a high school student. I started programming on March 3rd 2020.  :hourglass:<br>
