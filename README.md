@@ -46,6 +46,8 @@ If you want to co-operate with me, hit me up  :rocket:
 	:black_medium_square:
 		:black_medium_small_square:
 		:black_small_square: //same pro white
+
+ffjaofja yo how did i do that
 		
 		:zero:
 	:four: atd atd
@@ -56,4 +58,7 @@ If you want to co-operate with me, hit me up  :rocket:
 		:black_small_square: //same pro white
 
 
-ffjaofja yo how did i do that
+
+		
+		
+		
