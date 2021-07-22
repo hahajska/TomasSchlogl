@@ -42,8 +42,18 @@ If you want to co-operate with me, hit me up  :rocket:
 	:zero:
 	:four: atd atd
 	:keycap_ten:
-	
-	:black_large_square:
+		:black_large_square:
 	:black_medium_square:
 		:black_medium_small_square:
 		:black_small_square: //same pro white
+		
+		:zero:
+	:four: atd atd
+	:keycap_ten:
+		:black_large_square:
+	:black_medium_square:
+		:black_medium_small_square:
+		:black_small_square: //same pro white
+
+
+ffjaofja yo how did i do that
