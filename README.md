@@ -26,3 +26,6 @@ If you want to co-operate with me, hit me up  :rocket:
 
 
 
+:white_heart:	
+
+:right_anger_bubble:
