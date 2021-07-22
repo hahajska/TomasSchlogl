@@ -9,6 +9,11 @@ If you want to co-operate with me, hit me up  :rocket:
 <br>
 <br>
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
 #### I'm familiar with: 
 <sub> 
 :heavy_check_mark: HTML <br>
