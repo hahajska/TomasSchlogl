@@ -46,6 +46,8 @@ Content in the first column | Content in the second column
 :chart_with_upwards_trend:
 	:warning:
 	:heavy_multiplication_x:
+
+I am familiar with:
 	
 	HTML
 	
@@ -59,7 +61,6 @@ Content in the first column | Content in the second column
 	
 	Material-UI
 
-What I also know:
 		
 	Javascript 
 	
