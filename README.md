@@ -47,13 +47,14 @@ Content in the first column | Content in the second column
 	:warning:
 	:heavy_multiplication_x:
 	
-	:zero:
-	:four: atd atd
-	:keycap_ten:
-		:black_large_square:
-	:black_medium_square:
-		:black_medium_small_square:
-		:black_small_square: //same pro white
+	#### HTML & STYLING
+	
+	-HTML
+	-CSS
+	-SASS
+	-Tailwind.css
+	-Bootstrap
+	-Material-UI
 
 ffjaofja yo how did i do that
 		
