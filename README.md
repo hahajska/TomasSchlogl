@@ -47,13 +47,18 @@ Content in the first column | Content in the second column
 	:warning:
 	:heavy_multiplication_x:
 	
-	#### HTML & STYLING
+	FE Skills
 	
 	-HTML
+	
 	-CSS
+	
 	-SASS
+	
 	-Tailwind.css
+	
 	-Bootstrap
+	
 	-Material-UI
 
 ffjaofja yo how did i do that
