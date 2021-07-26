@@ -47,19 +47,19 @@ Content in the first column | Content in the second column
 	:warning:
 	:heavy_multiplication_x:
 	
-	-HTML
+	HTML
 	
-	-CSS
+	CSS
 	
-	-SASS
+	SASS
 	
-	-Tailwind.css
+	Tailwind.css
 	
-	-Bootstrap
+	Bootstrap
 	
-	-Material-UI
+	Material-UI
 
-ffjaofja yo how did i do that
+What I also know:
 		
 	Javascript 
 	
