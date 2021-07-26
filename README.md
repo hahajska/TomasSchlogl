@@ -61,14 +61,14 @@ Content in the first column | Content in the second column
 
 ffjaofja yo how did i do that
 		
-		:zero:
-	:four: atd atd
-	:keycap_ten:
-		:black_large_square:
-	:black_medium_square:
-		:black_medium_small_square:
-		:black_small_square: //same pro white
-
+	Javascript 
+	
+	React (Redux, Router, Styled-Components, etc.)
+	
+	GSAP
+	
+	Framer-Motion
+	
 fidk
 
 			oh you dont know me //Tab
