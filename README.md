@@ -47,8 +47,6 @@ Content in the first column | Content in the second column
 	:warning:
 	:heavy_multiplication_x:
 	
-	FE Skills
-	
 	-HTML
 	
 	-CSS
