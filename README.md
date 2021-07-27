@@ -39,7 +39,7 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 
 ## Moje práce: 📜
 
-<a href="facebook.com">cukrárna diana </a>
+<a href="facebook.com" style="color: white;">cukrárna diana </a>
 
 
 
