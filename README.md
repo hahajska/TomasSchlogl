@@ -1,15 +1,37 @@
 
  
-### Vítej na mém profilu :grey_exclamation:
+### Vítej na mém profilu
 
 #### Něco o mně
 
 <sub>
-Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvořím více než rok. Ačkoliv je to krátká doba, nabyl jsem spoustu skills, které jsem připraven využít při vývoji webových stránek.
-</sub>
+Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvořím více než rok. Ačkoliv je to krátká doba, naučil jsem se mnoho věcí, např.:
 <br>
 <br>
-
+	
+	HTML
+	
+	CSS
+	
+	SASS
+	
+	Tailwind.css
+	
+	Bootstrap
+	
+	Material-UI
+	
+.
+		
+	Javascript 
+	
+	React (Redux, Router, Styled-Components, API,..)
+	
+	GSAP
+	
+	Framer-Motion
+	
+	
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
@@ -48,7 +70,6 @@ Content in the first column | Content in the second column
 	:warning:
 	:heavy_multiplication_x:
 
-I am familiar with:
 	
 	HTML
 	
