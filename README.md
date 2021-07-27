@@ -41,7 +41,7 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 
 <a href="facebook.com">https://cukrarnadiana.netlify.app/</a> <br>
 
-Zbytek práce najdete na mém profilu ve vybraných. ❕
+Zbytek práce najdete na mém profilu ve vybraných ❕
 
 
 
