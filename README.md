@@ -1,11 +1,11 @@
 
  
-#### Vítej na mém profilu :grey_exclamation:
+### Vítej na mém profilu :grey_exclamation:
 
 #### Něco o mně
 
 <sub>
-Jmenuji se Tomáš, vývojem stránek se zabývám 2. rokem.
+Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Vývovej webových stránek se zabývám 1 rok.
 </sub>
 <br>
 <br>
