@@ -1,8 +1,8 @@
 
  
-# Vítej na mém profilu
+# Vítej na mém profilu :wave:	
 
-## Něco o mně
+## Něco o mně :man_technologist:
 
 
 Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvořím více než rok. Ačkoliv je to krátká doba, naučil jsem se mnoho věcí, např.:
