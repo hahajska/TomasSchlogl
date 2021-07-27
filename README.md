@@ -31,12 +31,15 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 	Framer-Motion
 	
 	
-	
 
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+## Plány do budoucna: :clock2:
+:computer: TypeScript
+💻 Next.js
+💻 Node.js
+
+
+
+
 
 #### I'm familiar with: 
 <sub> 
