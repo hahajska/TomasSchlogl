@@ -1,8 +1,8 @@
 
  
-#### Vítej na mém profilu :grey_exclamation:
+######## Vítej na mém profilu :grey_exclamation:
 
-##Něco o mně
+####Něco o mně
 <sub>
 Jmenuji se Tomáš, vývojem stránek se zabývám 2. rokem.
 </sub>
