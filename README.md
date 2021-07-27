@@ -5,7 +5,7 @@
 #### Něco o mně
 
 <sub>
-Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Vývovej webových stránek se zabývám 1 rok.
+Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvořím více než rok. Ačkoliv je to krátká doba, nabyl jsem spoustu skills, které jsem připraven využít při vývoji webových stránek.
 </sub>
 <br>
 <br>
