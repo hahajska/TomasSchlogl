@@ -1,12 +1,12 @@
 
  
-### Vítej na mém profilu
+# Vítej na mém profilu
 
-#### Něco o mně
+## Něco o mně
 
-<sub>
+
 Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvořím více než rok. Ačkoliv je to krátká doba, naučil jsem se mnoho věcí, např.:
-</sub>
+
 <br>
 <br> 
 	
