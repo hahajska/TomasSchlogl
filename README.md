@@ -77,3 +77,8 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 	:warning:
 	:heavy_multiplication_x:
 
+<style>
+	a{
+		color: white;
+	}
+	</style>
