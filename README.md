@@ -1,10 +1,10 @@
 
  
-#### Hey :eight_pointed_black_star:
+#### Vítej na mém profilu :grey_exclamation:
 
+##Něco o mně
 <sub>
-I am a high school student. I started programming on March 3rd 2020.  :hourglass:<br>
-If you want to co-operate with me, hit me up  :rocket:
+Jmenuji se Tomáš, vývojem stránek se zabývám 2. rokem.
 </sub>
 <br>
 <br>
@@ -32,7 +32,7 @@ Content in the first column | Content in the second column
 
 ##### I’m currently learning React.js. :desktop_computer:
 
-
+:grey_exclamation:
 :office:
 :white_heart:	
 :black_heart:
