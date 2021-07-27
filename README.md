@@ -33,9 +33,9 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 	
 
 ## Plány do budoucna: :clock2:
-:computer: TypeScript
-💻 Next.js
-💻 Node.js
+:computer: TypeScript <br>
+💻 Next.js <br>
+💻 Node.js <br>
 
 
 
