@@ -9,29 +9,7 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 <br>
 <br>
 	
-	HTML
-	
-	CSS
-	
-	SASS
-	
-	Tailwind.css
-	
-	Bootstrap
-	
-	Material-UI
-	
-.
-		
-	Javascript 
-	
-	React (Redux, Router, Styled-Components, API,..)
-	
-	GSAP
-	
-	Framer-Motion
-	a
-	
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
