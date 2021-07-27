@@ -9,7 +9,7 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 <br>
 <br>
 	
-	### HTML
+	HTML
 	
 	CSS
 	
@@ -70,34 +70,3 @@ Content in the first column | Content in the second column
 	:warning:
 	:heavy_multiplication_x:
 
-	
-	HTML
-	
-	CSS
-	
-	SASS
-	
-	Tailwind.css
-	
-	Bootstrap
-	
-	Material-UI
-	
-.
-		
-	Javascript 
-	
-	React (Redux, Router, Styled-Components, API,..)
-	
-	GSAP
-	
-	Framer-Motion
-	
-fidk
-
-			oh you dont know me //Tab
-
-
-		
-		
-		
