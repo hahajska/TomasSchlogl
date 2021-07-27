@@ -37,9 +37,11 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 💻 Next.js <br>
 💻 Node.js <br>
 
-## Moje práce: 📜
+## Moje práce (online): 📜
 
-<a href="facebook.com" style="color:white;">cukrárna diana </a>
+<a href="facebook.com">https://cukrarnadiana.netlify.app/</a> <br>
+
+Zbytek práce najdete na mém profilu ve vybraných. ❕
 
 
 
