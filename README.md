@@ -65,7 +65,7 @@ I am familiar with:
 		
 	Javascript 
 	
-	React (Redux, Router, Styled-Components, etc.)
+	React (Redux, Router, Styled-Components, API,..)
 	
 	GSAP
 	
