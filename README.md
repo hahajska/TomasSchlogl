@@ -39,12 +39,15 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 
 ## Moje práce (online): 📜
 
-<a href="facebook.com">https://cukrarnadiana.netlify.app/</a> <br>
+<a href="https://cukrarnadiana.netlify.app/">Cukrárna</a> - React
+<br>
+<a href="https://heuristic-jones-56cca2.netlify.app/">Random Web</a>
+<br>
 
 Zbytek práce najdete na mém profilu ve vybraných ❕
 
 
-
+https://heuristic-jones-56cca2.netlify.app/
 
 #### I'm familiar with: 
 <sub> 
