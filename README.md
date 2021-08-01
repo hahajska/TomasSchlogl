@@ -46,7 +46,6 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 Zbytek práce najdete na mém profilu ve vybraných ❕
 <br>
 <br>
-<br>
 
 ## Napište mi, pokud máte zájem o spolupráci: tomasschlogl@email.cz
 
