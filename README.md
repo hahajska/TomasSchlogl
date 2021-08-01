@@ -46,6 +46,8 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 
 Zbytek práce najdete na mém profilu ve vybraných ❕
 
+Napište mi, pokud máte zájem o spolupráci: 
+
 
 https://heuristic-jones-56cca2.netlify.app/
 
