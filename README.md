@@ -44,6 +44,7 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 <a href="https://heuristic-jones-56cca2.netlify.app/">Random Web</a> <br>
 <br>
 Zbytek práce najdete na mém profilu ve vybraných ❕
+<br>
 
 ## Napište mi, pokud máte zájem o spolupráci: tomasschlogl@email.cz
 
