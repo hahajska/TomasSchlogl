@@ -47,5 +47,4 @@ Zbytek práce najdete na mém profilu ve vybraných ❕
 <br>
 <br>
 
-## Napište mi, pokud máte zájem o spolupráci: tomasschlogl@email.cz
 
