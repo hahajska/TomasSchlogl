@@ -24,7 +24,7 @@ Jmenuji se Tomáš a chodím na gymnázium do 4. ročníku. Webové stránky tvo
 		
 	Javascript 
 	
-	React (Redux, Router, Styled-Components, API,..)
+	React 
 	
 	GSAP
 	
